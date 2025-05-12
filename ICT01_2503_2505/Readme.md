@@ -81,7 +81,7 @@
 		<div align="center"> DeepRoad </div>
 		</td>
 		<td>
-			<div align="left"> 김주한(HW, SW)(팀장), 신서연(SW, 발표 준비), 안수빈 </div>
+			<div align="left"> 김주한(팀장), 신서연, 안수빈 </div>
 		</td>
 		<td>
 			<div align="left"> 라즈베리파이 기반의 자율주행 자동차의 기본을 개발 </div>
