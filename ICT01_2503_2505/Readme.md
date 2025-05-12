@@ -53,7 +53,7 @@
 			</div>
 		</td>
 	   <td>
-		   <div align="center"> github  <a href=""> 이동  </a></div>
+		   <div align="center"> github  <a href=""> -  </a></div>
 		</td>
 	</tr>
 	<tr>
@@ -73,7 +73,7 @@
 			</div>
 		</td>
 	   <td>
-		   <div align="center"> github  <a href=""> 이동  </a></div>
+		   <div align="center"> github  <a href=""> -   </a></div>
 		</td>
 	</tr>
 	<tr>
@@ -93,7 +93,7 @@
 			</div>
 		</td>
 	   <td>
-		   <div align="center"> github  <a href=""> 이동  </a></div>
+		   <div align="center"> github  <a href=""> -   </a></div>
 		</td>
 	</tr>
 	<tr>
@@ -113,7 +113,7 @@
 			</div>
 		</td>
 	   <td>
-		   <div align="center"> github  <a href=""> 이동  </a></div>
+		   <div align="center"> github  <a href=""> -   </a></div>
 		</td>
 	</tr>
 	<tr>
@@ -133,7 +133,7 @@
 			</div>
 		</td>
 	   <td>
-		   <div align="center"> github  <a href=""> 이동  </a></div>
+		   <div align="center"> github  <a href=""> -   </a></div>
 		</td>
 	</tr>
 </table>
