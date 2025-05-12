@@ -1,5 +1,5 @@
-# Goorm_2025_ICT123_Public
-
+# Goorm_2025년도
+## 과정명 : 수도권 ICT 올인원 Pass! 인공지능 프로젝트 마스터
 
 ## 공공자료 및 프로젝트 자료 저장소
 ## URL : https://ldjwj.github.io/Goorm_2025_ICT123_allinOne/
@@ -13,7 +13,7 @@
 ### 수도권 ICT 올인원 Pass! 인공지능 프로젝트 마스터 1기 - 팀별 프로젝트
 🔭 내용 : 팀프로젝트  <br>
 😄 기간 : 2025.03.12(수) ~ 2025.05.13(화)
-😄 해당 프로젝트로 [이동하기](https://github.com/LDJWJ/Goorm_2025_ICT123_allinOne/tree/main/ICT01_2503_2505)  
+😄 해당 프로젝트로 [이동하기](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/tree/main/ICT01_2503_2505)  
 
 
 
