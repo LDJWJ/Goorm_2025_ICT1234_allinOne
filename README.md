@@ -28,6 +28,15 @@
 😄 해당 프로젝트로 [이동하기](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/tree/main/ICT01_2503_2505)  
 
 
+## 수도권 ICT 올인원 Pass! 인공지능 프로젝트 마스터 3기 - 2025년
+
+## 프로젝트 발걸음 
+
+### 수도권 ICT 올인원 Pass! 인공지능 프로젝트 마스터 3기 - 팀별 프로젝트
+🔭 내용 : 팀프로젝트  <br>
+😄 기간 : 2025.08.19(수) ~ 2025.11.08(화)
+😄 해당 프로젝트로 [이동하기](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/tree/main/ICT01_2503_2505)  
+
 <!--
 **LDJWJ/LDJWJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
