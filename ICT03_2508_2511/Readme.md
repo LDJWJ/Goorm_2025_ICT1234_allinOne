@@ -10,7 +10,7 @@
 
 <h2><font color="#00CCCC"><b> 프로젝트 정리 </b></font></h2>
 
-<img src="./images/just_start.jpg">
+<img src="./images/Whisk_AI_FirstStep3.jpg">
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
