@@ -17,7 +17,7 @@
 ### 🥈 2기 - 수도권 ICT 올인원 Pass! 인공지능 프로젝트 마스터  
 - 📅 **진행 기간**: `2025.06.18 (수)` ~ `2025.07.18 (화)`  
 - 👨‍👩‍👧‍👦 **형태**: 팀 프로젝트  
-- 🔗 **[👉 프로젝트 바로가기](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/tree/main/ICT01_2503_2505)**
+- 🔗 **[👉 프로젝트 바로가기](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/tree/main/ICT02_2506_2507)**
 
 ---
 
