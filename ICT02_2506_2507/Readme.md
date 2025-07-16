@@ -22,122 +22,80 @@
 <table border=1 bgcolor="#EEEEEE">
 	<tr bgcolor="#CC0000">
 		<td width="100">
-		<div align="center"><font color="#FFFFFF"><b>Team Name</b></font></div>
+			<div align="center"><font color="#FFFFFF"><b>Team Name</b></font></div>
 		</td>
 		<td width="100">
-		<div align="center"><font color="#FFFFFF"><b>Team Building</b></font></div>
+			<div align="center"><font color="#FFFFFF"><b>Team Building</b></font></div>
 		</td>
 		<td width="300">
-		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
+			<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
 		</td>
 		<td width="150">
-		<div align="center"><font color="#FFFFFF"><b>데이터 URL</b></font></div>
+			<div align="center"><font color="#FFFFFF"><b>데이터 URL</b></font></div>
+		</td>
 		<td width="200">
-		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
+			<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
 		</td>
 	</tr>
+
 	<tr>
-		<td>
-		<div align="center"> 따로국밥 </div>
-		</td>
-		<td>
-			<div align="left"> 김사훈(팀장), 이만오, 김아름, 장대영, 강유진 </div>
-		</td>
-		<td>
-			<div align="left"> 지능형 노인 낙상 감지 및 인터랙티브 알림 시스템 </div>
-		</td>
-		<td>
-			<div align="center"> <a href="">
-			<img src='images/team_logo_dro.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2025_ICT1234_allinOne/ICT01_2503_2505/last_reports/따로국밥_V10_250512.pdf"> 이동 </a>			
-			</div>
-		</td>
-	   <td>
-		   <div align="center"> github  <a href=""> -  </a></div>
-		</td>
+		<td><div align="center">Logy-desk</div></td>
+		<td><div align="left">강연례, 김정인, 박영세, 강신범, 박믿음</div></td>
+		<td><div align="left">Logy-desk (코알못을 위한) 성장형 멀티 에이전트 챗봇</div></td>
+		<td><div align="center">-</div></td>
+		<td><div align="center">GitHub <a href="#">-</a></div></td>
 	</tr>
+
 	<tr>
-		<td>
-		<div align="center"> EasyQC </div>
-		</td>
-		<td>
-			<div align="left"> 차경호(팀장), 김정현, 윤율, 전명환 </div>
-		</td>
-		<td>
-			<div align="left"> 스마트폰을 활용한 불량품 판별 시스템 개발 </div>
-		</td>
-		<td>
-			<div align="center"> <a href="">
-			<img src='images/team_logo_dro.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2025_ICT1234_allinOne/ICT01_2503_2505/last_reports/EasyQC_V10_250512.pdf"> 이동 </a>			
-			</div>
-		</td>
-	   <td>
-		   <div align="center"> github  <a href=""> -   </a></div>
-		</td>
+		<td><div align="center">K-Epione</div></td>
+		<td><div align="left">한승연, 정은영, 윤다은, 서승균, 최화숙</div></td>
+		<td><div align="left">WoundView : AI 기반 상처 가이드 서비스</div></td>
+		<td><div align="center">-</div></td>
+		<td><div align="center">GitHub <a href="#">-</a></div></td>
 	</tr>
+
 	<tr>
-		<td>
-		<div align="center"> DeepRoad </div>
-		</td>
-		<td>
-			<div align="left"> 김주한(팀장), 신서연, 안수빈 </div>
-		</td>
-		<td>
-			<div align="left"> 라즈베리파이 기반의 자율주행 자동차의 기본을 개발 </div>
-		</td>
-		<td>
-			<div align="center"> <a href="">
-			<img src='images/team_logo_dro.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2025_ICT1234_allinOne/ICT01_2503_2505/last_reports/DeepRoad_V10_250512.pdf"> 이동 </a>			
-			</div>
-		</td>
-	   <td>
-		   <div align="center"> github  <a href=""> -   </a></div>
-		</td>
+		<td><div align="center">하이라이트</div></td>
+		<td><div align="left">이주혜, 박강원, 류미란, 이수영</div></td>
+		<td><div align="left">LifeCast: AI와 함께 만들어가는 나만의 인생 이야기, 네컷 만화로 남기기</div></td>
+		<td><div align="center">-</div></td>
+		<td><div align="center">GitHub <a href="#">-</a></div></td>
 	</tr>
+
 	<tr>
-		<td>
-		<div align="center"> 콘텐츠브랜더스 </div>
-		</td>
-		<td>
-			<div align="left"> 김병제(팀장), 배해성, 최소현 </div>
-		</td>
-		<td>
-			<div align="left"> 성과형 브랜드 콘텐츠 자동화 서비스 </div>
-		</td>
-		<td>
-			<div align="center"> <a href="">
-			<img src='images/team_logo_dro.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2025_ICT1234_allinOne/ICT01_2503_2505/last_reports/콘텐츠마스터_V10_250512.pdf"> 이동 </a>			
-			</div>
-		</td>
-	   <td>
-		   <div align="center"> github  <a href=""> -   </a></div>
-		</td>
+		<td><div align="center">소리샘</div></td>
+		<td><div align="left">최창호, 김에스더</div></td>
+		<td><div align="left">AI 기반 예측 기술을 활용한 스마트 공공 서비스</div></td>
+		<td><div align="center">-</div></td>
+		<td><div align="center">GitHub <a href="#">-</a></div></td>
 	</tr>
+
 	<tr>
-		<td>
-		<div align="center"> 밥알지니어스 </div>
-		</td>
-		<td>
-			<div align="left"> 이건우(팀장), 문초연, 이진아, 이시연 </div>
-		</td>
-		<td>
-			<div align="left"> 오늘 어떤 메뉴가 좋을까? </div>
-		</td>
-		<td>
-			<div align="center"> <a href="">
-			<img src='images/team_logo_dro.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2025_ICT1234_allinOne/ICT01_2503_2505/last_reports/밥알지니어스_V10_250512.pdf"> 이동 </a>			
-			</div>
-		</td>
-	   <td>
-		   <div align="center"> github  <a href=""> -   </a></div>
-		</td>
+		<td><div align="center">RoadMint</div></td>
+		<td><div align="left">성삼경, 이재훈, 김미경, 송재혁</div></td>
+		<td><div align="left">LearnSphere: AI 기반 학습 로드맵 생성기</div></td>
+		<td><div align="center">-</div></td>
+		<td><div align="center">GitHub <a href="#">-</a></div></td>
+	</tr>
+
+	<tr>
+		<td><div align="center">박재현</div></td>
+		<td><div align="left">박재현</div></td>
+		<td><div align="left">TalkAgent: AI 상담 챗봇</div></td>
+		<td><div align="center">-</div></td>
+		<td><div align="center">GitHub <a href="#">-</a></div></td>
+	</tr>
+
+	<tr>
+		<td><div align="center">솔로우</div></td>
+		<td><div align="left">백민홍</div></td>
+		<td><div align="left">책봇 : 에이전트 챗봇</div></td>
+		<td><div align="center">-</div></td>
+		<td><div align="center">GitHub <a href="#">-</a></div></td>
 	</tr>
 </table>
 </div>
+
 <hr>
 
 <br>
