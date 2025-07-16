@@ -1,5 +1,5 @@
 
-# 수도권 ICT 올인원 Pass! 인공지능 프로젝트 마스터 1기
+# 수도권 ICT 올인원 Pass! 인공지능 프로젝트 마스터 2기
 * KICT 프로젝트반
 
 <div align='right'>
@@ -15,7 +15,7 @@
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
 최종 프로젝트 진행
-* 기간 : 2025.03.12(수) ~ 2025.05.13(화) <br>
+* 기간 : 2025.06.18(수) ~ 2025.07.18(금) <br>
 
 
 <div align="left">
