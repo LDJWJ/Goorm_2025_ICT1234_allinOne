@@ -6,6 +6,10 @@
 	</font>, [임동조](colabstart@gmail.com)</font></div>
 <hr>
 
+
+프로젝트 결과물로 이동(Notion) - [이동하기](https://rowan-sail-868.notion.site/ICT-Pass-25-2-24e7d480b59380c490acc9b9502647bc?source=copy_link)
+
+
 <h2><font color="#00CCCC"><b> 프로젝트 정리 </b></font></h2>
 
 <img src="./images/Whisk_AI_FirstStep3.jpg">
